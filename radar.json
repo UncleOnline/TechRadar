@@ -1,59 +1,162 @@
-{
-  "quadrants": [
-    {
-      "name": "Techniques",
-      "rings": [
-        {
-          "name": "Adopt",
-          "items": [
-            "Data product thinking (Thoughtworks)",
-            "Fuzz testing (Thoughtworks)",
-            "Software Bill of Materials (Thoughtworks)",
-            "Threat modeling (Thoughtworks)"
-          ]
-        },
-        {
-          "name": "Trial",
-          "items": [
-            "API request collection as API product artifact (Thoughtworks)",
-            "Architecture advice process (Thoughtworks)",
-            "GraphRAG (Thoughtworks)",
-            "Just-in-time privileged access management (Thoughtworks)",
-            "Model distillation (Thoughtworks)",
-            "Prompt engineering (Thoughtworks)"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Platforms",
-      "rings": [
-        {
-          "name": "Assess",
-          "items": [
-            "Generative AI-enabled productivity (Gartner)",
-            "Industry Cloud Platforms (Gartner)",
-            "AI-augmented Development (Gartner)",
-            "Machine Customers (Gartner)",
-            "Cloud-native Platforms (Gartner)",
-            "Secure AI (Gartner)",
-            "Sustainable Technology (Gartner)",
-            "Platform Engineering (Gartner)"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Tools",
-      "rings": [
-        {
-          "name": "Assess",
-          "items": [
-            "Intelligent Applications (Gartner)",
-            "Digital Humans (Gartner)"
-          ]
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "name": "Data product thinking",
+    "ring": "Adopt",
+    "quadrant": "Techniques",
+    "isNew": true,
+    "source": "Thoughtworks",
+    "theme": "Techniques"
+  },
+  {
+    "name": "Fuzz testing",
+    "ring": "Adopt",
+    "quadrant": "Techniques",
+    "isNew": false,
+    "source": "Thoughtworks",
+    "theme": "Techniques"
+  },
+  {
+    "name": "Software Bill of Materials",
+    "ring": "Adopt",
+    "quadrant": "Techniques",
+    "isNew": false,
+    "source": "Thoughtworks",
+    "theme": "Techniques"
+  },
+  {
+    "name": "Threat modeling",
+    "ring": "Adopt",
+    "quadrant": "Techniques",
+    "isNew": false,
+    "source": "Thoughtworks",
+    "theme": "Techniques"
+  },
+  {
+    "name": "API request collection as API product artifact",
+    "ring": "Trial",
+    "quadrant": "Techniques",
+    "isNew": true,
+    "source": "Thoughtworks",
+    "theme": "Techniques"
+  },
+  {
+    "name": "Architecture advice process",
+    "ring": "Trial",
+    "quadrant": "Techniques",
+    "isNew": true,
+    "source": "Thoughtworks",
+    "theme": "Techniques"
+  },
+  {
+    "name": "GraphRAG",
+    "ring": "Trial",
+    "quadrant": "Techniques",
+    "isNew": true,
+    "source": "Thoughtworks",
+    "theme": "Techniques"
+  },
+  {
+    "name": "Just-in-time privileged access management",
+    "ring": "Trial",
+    "quadrant": "Techniques",
+    "isNew": false,
+    "source": "Thoughtworks",
+    "theme": "Techniques"
+  },
+  {
+    "name": "Model distillation",
+    "ring": "Trial",
+    "quadrant": "Techniques",
+    "isNew": true,
+    "source": "Thoughtworks",
+    "theme": "Techniques"
+  },
+  {
+    "name": "Prompt engineering",
+    "ring": "Trial",
+    "quadrant": "Techniques",
+    "isNew": false,
+    "source": "Thoughtworks",
+    "theme": "Techniques"
+  },
+  {
+    "name": "Generative AI Virtual Assistants",
+    "ring": "Assess",
+    "quadrant": "Tools",
+    "isNew": true,
+    "source": "Gartner",
+    "theme": "Apps, experience and UI"
+  },
+  {
+    "name": "AI Avatars",
+    "ring": "Assess",
+    "quadrant": "Tools",
+    "isNew": true,
+    "source": "Gartner",
+    "theme": "Apps, experience and UI"
+  },
+  {
+    "name": "Agentic AI",
+    "ring": "Assess",
+    "quadrant": "Techniques",
+    "isNew": true,
+    "source": "Gartner",
+    "theme": "Apps, experience and UI"
+  },
+  {
+    "name": "Multimodal UI",
+    "ring": "Assess",
+    "quadrant": "Techniques",
+    "isNew": true,
+    "source": "Gartner",
+    "theme": "Apps, experience and UI"
+  },
+  {
+    "name": "Simulation Twins",
+    "ring": "Assess",
+    "quadrant": "Platforms",
+    "isNew": true,
+    "source": "Gartner",
+    "theme": "Apps, experience and UI"
+  },
+  {
+    "name": "Decision Intelligence",
+    "ring": "Assess",
+    "quadrant": "Techniques",
+    "isNew": true,
+    "source": "Gartner",
+    "theme": "Apps, experience and UI"
+  },
+  {
+    "name": "Algorithm-Aligned Silicon Architectures (AASA)",
+    "ring": "Assess",
+    "quadrant": "Platforms",
+    "isNew": true,
+    "source": "Gartner",
+    "theme": "Compute and infrastructure"
+  },
+  {
+    "name": "Neuromorphic Computing",
+    "ring": "Assess",
+    "quadrant": "Platforms",
+    "isNew": true,
+    "source": "Gartner",
+    "theme": "Compute and infrastructure"
+  },
+  {
+    "name": "Quantum Computing",
+    "ring": "Assess",
+    "quadrant": "Platforms",
+    "isNew": false,
+    "source": "Gartner",
+    "theme": "Compute and infrastructure"
+  },
+  {
+    "name": "Spatial Computing",
+    "ring": "Assess",
+    "quadrant": "Platforms",
+    "isNew": false,
+    "source": "Gartner",
+    "theme": "Compute and infrastructure"
+  }
+]
