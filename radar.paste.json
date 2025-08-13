@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Data product thinking",
+    "ring": "Adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "source": "Thoughtworks",
+    "theme": "Techniques",
+    "description": ""
+  },
+  {
+    "name": "Fuzz testing",
+    "ring": "Adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "source": "Thoughtworks",
+    "theme": "Techniques",
+    "description": ""
+  },
+  {
+    "name": "Software Bill of Materials",
+    "ring": "Adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "source": "Thoughtworks",
+    "theme": "Techniques",
+    "description": ""
+  },
+  {
+    "name": "Threat modeling",
+    "ring": "Adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "source": "Thoughtworks",
+    "theme": "Techniques",
+    "description": ""
+  },
+  {
+    "name": "API request collection as API product artifact",
+    "ring": "Trial",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "source": "Thoughtworks",
+    "theme": "Techniques",
+    "description": ""
+  },
+  {
+    "name": "Architecture advice process",
+    "ring": "Trial",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "source": "Thoughtworks",
+    "theme": "Techniques",
+    "description": ""
+  },
+  {
+    "name": "GraphRAG",
+    "ring": "Trial",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "source": "Thoughtworks",
+    "theme": "Techniques",
+    "description": ""
+  },
+  {
+    "name": "Just-in-time privileged access management",
+    "ring": "Trial",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "source": "Thoughtworks",
+    "theme": "Techniques",
+    "description": ""
+  },
+  {
+    "name": "Model distillation",
+    "ring": "Trial",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "source": "Thoughtworks",
+    "theme": "Techniques",
+    "description": ""
+  },
+  {
+    "name": "Prompt engineering",
+    "ring": "Trial",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "source": "Thoughtworks",
+    "theme": "Techniques",
+    "description": ""
+  },
+  {
+    "name": "Generative AI Virtual Assistants",
+    "ring": "Assess",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "source": "Gartner",
+    "theme": "Apps, experience and UI",
+    "description": ""
+  },
+  {
+    "name": "AI Avatars",
+    "ring": "Assess",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "source": "Gartner",
+    "theme": "Apps, experience and UI",
+    "description": ""
+  },
+  {
+    "name": "Agentic AI",
+    "ring": "Assess",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "source": "Gartner",
+    "theme": "Apps, experience and UI",
+    "description": ""
+  },
+  {
+    "name": "Multimodal UI",
+    "ring": "Assess",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "source": "Gartner",
+    "theme": "Apps, experience and UI",
+    "description": ""
+  },
+  {
+    "name": "Simulation Twins",
+    "ring": "Assess",
+    "quadrant": "Platforms",
+    "isNew": "TRUE",
+    "source": "Gartner",
+    "theme": "Apps, experience and UI",
+    "description": ""
+  },
+  {
+    "name": "Decision Intelligence",
+    "ring": "Assess",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "source": "Gartner",
+    "theme": "Apps, experience and UI",
+    "description": ""
+  },
+  {
+    "name": "Algorithm-Aligned Silicon Architectures (AASA)",
+    "ring": "Assess",
+    "quadrant": "Platforms",
+    "isNew": "TRUE",
+    "source": "Gartner",
+    "theme": "Compute and infrastructure",
+    "description": ""
+  },
+  {
+    "name": "Neuromorphic Computing",
+    "ring": "Assess",
+    "quadrant": "Platforms",
+    "isNew": "TRUE",
+    "source": "Gartner",
+    "theme": "Compute and infrastructure",
+    "description": ""
+  },
+  {
+    "name": "Quantum Computing",
+    "ring": "Assess",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "source": "Gartner",
+    "theme": "Compute and infrastructure",
+    "description": ""
+  },
+  {
+    "name": "Spatial Computing",
+    "ring": "Assess",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "source": "Gartner",
+    "theme": "Compute and infrastructure",
+    "description": ""
+  }
+]
